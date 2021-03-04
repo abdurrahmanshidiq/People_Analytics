@@ -71,3 +71,4 @@ I tried two different models and evaluated them using accuracy. I chose Accuracy
 
 
 [Go to my GitHub Pages](https://abdurrahmanshidiq.github.io/People_Analytics/)
+
