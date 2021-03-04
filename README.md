@@ -27,7 +27,7 @@
 	***GPA before transformed***
 	<br>
 	<br>
-	![boxplot gpa before](/master/images/boxplot%20GPA%20before.png "boxplot gpa before")
+	![boxplot gpa before](/images/boxplot%20GPA%20before.png "boxplot gpa before")
 
 	***Median Value for normal GPA by job level***
 	<br>
@@ -37,7 +37,7 @@
 	***GPA after transformed***
 	<br>
 	<br>
-	![boxplot gpa after](/master/images/boxplot%20GPA%20after.png "boxplot gpa after")
+	![boxplot gpa after](/images/boxplot%20GPA%20after.png "boxplot gpa after")
 
 
 - Manipulate `Best Performance` column.
@@ -53,7 +53,7 @@ Below are some examples of the insights I've got:
 ![job_level](/images/Employee%20by%20joblevel.png "job_level")
 <br>
 <br>
-![best by job_level](/master/images/Employee%20Best%20performance%20by%20joblevel.png "best by job_level")
+![best by job_level](/images/Employee%20Best%20performance%20by%20joblevel.png "best by job_level")
 
 # Model Building
 First, I transformed the categorical variables into label encoder & dummy variables. I also split the data into train and tests sets with a test size of 30%.   
