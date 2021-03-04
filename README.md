@@ -27,7 +27,7 @@
 	***GPA before transformed***
 	<br>
 	<br>
-	![boxplot gpa before](/images/boxplot%20GPA%20before.png "boxplot gpa before")
+	![](/images/boxplot%20GPA%20before.png)
 
 	***Median Value for normal GPA by job level***
 	<br>
