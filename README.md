@@ -27,17 +27,17 @@
 	***GPA before transformed***
 	<br>
 	<br>
-	![boxplot gpa before](/images/boxplot GPA before.png "boxplot gpa before")
+	![boxplot gpa before](/images/boxplot%20GPA%20before.png "boxplot gpa before")
 
 	***Median Value for normal GPA by job level***
 	<br>
 	<br>
-	![gpa by job level](/images/boxplot normal GPA by joblevel.png "gpa by job level")
+	![gpa by job level](/images/boxplot%20normal%20GPA%20by%20joblevel.png "gpa by job level")
 
 	***GPA after transformed***
 	<br>
 	<br>
-	![boxplot gpa after](/images/boxplot GPA before.png "boxplot gpa after")
+	![boxplot gpa after](/images/boxplot%20GPA%20after.png "boxplot gpa after")
 
 
 - Manipulate `Best Performance` column.
